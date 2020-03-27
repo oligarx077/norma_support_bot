@@ -1,0 +1,20 @@
+{
+  "name": "bot.uzx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Oligarx",
+  "license": "ISC",
+  "dependencies": {
+    "node-syntaxhighlighter": "^0.8.1",
+    "node-telegram": "^1.0.6",
+    "node-telegram-bot": "^0.1.9",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
